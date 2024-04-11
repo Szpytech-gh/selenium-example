@@ -1,0 +1,13 @@
+{
+  "name": "selenium-example",
+  "version": "1.0.0",
+  "description": "example selenium tests and utils",
+  "main": "index.js",
+  "author": "Szpytech",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/selenium-webdriver": "^4.1.22",
+    "selenium-webdriver": "^4.19.0"
+  }
+}
